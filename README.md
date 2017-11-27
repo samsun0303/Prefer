@@ -11,7 +11,7 @@
 * 電子2A 0552058林振毅
 
 [PChome](http://shopping.pchome.com.tw/)
-![NKFUST](nkfust.jpg "NKFUST")
+![pchome](PChome.png "PChome")
 ---
 :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 ---
